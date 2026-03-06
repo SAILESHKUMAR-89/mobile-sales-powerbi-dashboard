@@ -9,12 +9,6 @@ The goal of this project was to explore how a **complete analytics dashboard can
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
-
----
-
 ## Key Metrics
 
 - **Total Sales:** 769M
