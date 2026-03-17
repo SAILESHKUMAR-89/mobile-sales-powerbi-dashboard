@@ -61,6 +61,9 @@ These allow users to dynamically explore the data.
 - Business Intelligence
 
 ---
+## 📊 Dashboard Preview
+![Dashboard](Mobile_Sales_Dashboard.PNG)
+---
 
 ## Key Learning
 
